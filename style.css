@@ -1,0 +1,48 @@
+.body_backgorund 
+{
+
+	font-size: 30px;
+	text-decoration-color: lightcoral;
+    background-image: url("https://i.pinimg.com/564x/cb/a0/18/cba01813cdb208c55327baf4a7964215.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+	background-position:center;
+    border: pink 12px;
+    background-color: rgba(255, 255, 255, 0); 
+    border-style:ridge;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: rgb(238, 204, 236);	
+	text-align: center;
+}
+a
+{
+	text-decoration:lightcoral;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+
+
